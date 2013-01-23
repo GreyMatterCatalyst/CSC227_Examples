@@ -51,6 +51,10 @@ public class HalPlayer
 		}
 
 		/*
+		if ( input.equals( "1" ) )
+		{
+		    System.out.println( "Hal9000 Says: I'm Sorry Dave, I can't do that" );
+		}
 		else if ( input.equals( "2" ) )
 		{
 		    System.out.println( "Hal9000 Says: What an enjoyable game we're having" );
