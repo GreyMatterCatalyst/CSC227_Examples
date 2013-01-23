@@ -1,13 +1,4 @@
 import java.util.Scanner;
-import java.io.*;
-import java.applet.*;
-import java.net.*;
-import java.io.File;  
-import javax.sound.sampled.AudioFormat;  
-import javax.sound.sampled.AudioInputStream;  
-import javax.sound.sampled.AudioSystem;  
-import javax.sound.sampled.DataLine;  
-import javax.sound.sampled.SourceDataLine;
 
 public class HalPlayer
 {
@@ -69,9 +60,6 @@ public class HalPlayer
 		    System.out.println( "What??" );
 		}
 		*/
-
-		// TODO setup branching logic to parse the inputted command and print the corresponding message
-		// 
 	    }
 	    
 	}    
